@@ -1,4 +1,4 @@
-###   👋 Ola sou Pierre Lima
+###   👋 Hi there, I'm Pierre Lima
 
 <!--
 **Pierrelimaa/PierreLimaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
