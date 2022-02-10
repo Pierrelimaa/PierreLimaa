@@ -12,5 +12,5 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 Cursando o ultimo ano de Engenharia de Controle e Automação no Instituto Mauá de Tecnologia
+- 🌱 Engenheiro de Controle e Automação 
 
