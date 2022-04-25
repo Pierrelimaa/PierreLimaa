@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 Engenheiro de Controle e Automação 
+- 🔭 Amante da tecnologia
+- 💡 Atualmente apaerfeiçoando os conhecimentos nas areas de  Machine Learning e Data Science
 
