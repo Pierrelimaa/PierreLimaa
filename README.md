@@ -12,7 +12,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 Engenheiro de Controle e Automação 
+- 🌱 Engenheiro de Controle e Automação
+- ⚡ Pesquisador de Engenharia e Tecnologia no Instituto Mauá de Tecnologia  
 - 🔭 Amante da tecnologia
-- 💡 Atualmente apaerfeiçoando os conhecimentos nas areas de  Machine Learning e Data Science
+- 💡 Atualmente aperfeiçoando os conhecimentos nas areas de  Machine Learning e Data Science
 
