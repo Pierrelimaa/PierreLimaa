@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, me chamo Pierre</h1>
+<h1 align="center">Olá 👋, meu nome é Pierre</h1>
 <h3 align="center">Engenheiro de controle e automação, desenvolvedor e amante da tecnologia</h3>
 
 - 🌱 Atualmente aperfeiçoando meus conhecimentos na área de dados: **Python, Pandas, Numpy, Scipy, Análise de dados, Machine Learning**
