@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente aperfeiçoando meus conhecimentos na área de dados: **Python, Pandas, Numpy, Scipy, Análise de dados, Machine Learning**
 
-- 📫 Me encontre através **pierre.limaa@gmail.com**
+- 📫 Me encontre por meio de **pierre.limaa@gmail.com**
 
 - 📄 Aqui você encontra um pouco sobre minhas experiências www.linkedin.com/in/pierre-albuquerque-50591a15a
 
