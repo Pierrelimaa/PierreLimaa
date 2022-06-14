@@ -3,7 +3,7 @@
 
 - :rocket: Pesquisador de Engenharia e Tecnologia 
 
-- 🌱 Atualmente aperfeiçoando meus conhecimentos na área de dados: **Python, Pandas, Numpy, Scipy, Análise de dados, Machine Learning**
+- 🌱 Atualmente aperfeiçoando meus conhecimentos na área de dados: **Python, Pandas, Numpy, Scipy, Seaborn (Vizualização), Análise de dados, Machine Learning**
 
 - 📫 Me encontre por meio de **pierre.limaa@gmail.com**
 
