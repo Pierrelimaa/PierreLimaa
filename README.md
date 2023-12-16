@@ -1,15 +1,14 @@
 <h1 align="center">Olá 👋, meu nome é Pierre</h1>
 <h3 align="center">Engenheiro de controle e automação, desenvolvedor e amante da tecnologia</h3>
 
-- :rocket: Desenvolvedor Back-end 
+- :rocket: Desenvolvedor Back-end - Kotlin, AWS, Docker
 
-- 🌱 Atualmente aperfeiçoando meus conhecimentos na área de dados: **Python, Pandas, Numpy, Scipy, Seaborn (Vizualização), Análise de dados, Machine Learning**
+- 🌱 Atualmente aperfeiçoando meus conhecimentos: **AWS, Kotlin, Clean Archtecture**
 
 - 📫 Me encontre por meio de **pierre.limaa@gmail.com**
 
 - 📄 Aqui você encontra um pouco sobre minhas experiências www.linkedin.com/in/pierre-albuquerque-50591a15a
 
-- :dog: Dog person
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pierre-albuquerque-50591a15a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pierre-albuquerque-50591a15a" height="30" width="40" /></a>
