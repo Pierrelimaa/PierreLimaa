@@ -3,7 +3,7 @@
 
 - :rocket: Desenvolvedor Back-end - Kotlin, AWS, Docker
 
-- 🌱 Atualmente aperfeiçoando meus conhecimentos: **AWS, Kotlin, Clean Archtecture**
+- 🌱 Atualmente aperfeiçoando meus conhecimentos: **AWS, Kotlin, Clean Architecture, Mensageria**
 
 - 📫 Me encontre por meio de **pierre.limaa@gmail.com**
 
