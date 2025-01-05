@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, meu nome é Pierre</h1>
 <h3 align="center">Engenheiro de controle e automação, desenvolvedor e amante da tecnologia</h3>
 
-- :rocket: Desenvolvedor Back-end - Kotlin, AWS, Docker
+- :rocket: Desenvolvedor Back-end - Kotlin, AWS, Microserviços
 
 - 🌱 Atualmente aperfeiçoando meus conhecimentos: **AWS, Kotlin, Clean Architecture, Mensageria**
 
